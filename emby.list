@@ -3,8 +3,13 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.wtf
+#飞跃彩虹
 DOMAIN-SUFFIX,581658.best
-DOMAIN-SUFFIX,hka-emby.aliz.work #hka
-DOMAIN-SUFFIX,emby.awatv.de  #awa
-DOMAIN-SUFFIX,yhemby.top  #飞跃银河
-DOMAIN-SUFFIX,oversea.alphatvapp.top  #alpha
+#hka
+DOMAIN-SUFFIX,hka-emby.aliz.work
+#awa
+DOMAIN-SUFFIX,emby.awatv.de
+#飞跃银河
+DOMAIN-SUFFIX,yhemby.top
+#alpha
+DOMAIN-SUFFIX,oversea.alphatvapp.top
