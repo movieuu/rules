@@ -2,6 +2,11 @@
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN,richamon.myds.me
 
+#plex
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,plex.direct
+
 # PT站
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,hddolby.com
