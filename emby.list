@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
+DOMAIN-SUFFIX,stream5.misakaf.org
+DOMAIN-SUFFIX,stream6.misakaf.org
+DOMAIN-SUFFIX,stream7.misakaf.org
+DOMAIN-SUFFIX,stream8.misakaf.org
+
 #纸片人
 DOMAIN-SUFFIX,embyplus.org
 #终点站
