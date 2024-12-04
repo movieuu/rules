@@ -9,8 +9,9 @@ DOMAIN-SUFFIX,stream6.misakaf.org
 DOMAIN-SUFFIX,stream7.misakaf.org
 DOMAIN-SUFFIX,stream8.misakaf.org
 
-#纸片人
-DOMAIN-SUFFIX,embyplus.org
+#飞跃彩虹
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,581658.best
 #终点站
 DOMAIN-SUFFIX,emby.wtf
 #hka
@@ -25,6 +26,5 @@ DOMAIN-SUFFIX,oversea.alphatvapp.top
 DOMAIN-SUFFIX,emby.bangumi.ca
 #野兽餐厅
 DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
-#飞跃彩虹
-DOMAIN-SUFFIX,7777777.buzz
-DOMAIN-SUFFIX,581658.best
+#纸片人
+DOMAIN-SUFFIX,embyplus.org
