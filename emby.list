@@ -1,4 +1,3 @@
-#在直连里的:飞跃彩虹
 #misakaf
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
@@ -9,17 +8,17 @@ DOMAIN-SUFFIX,stream6.misakaf.org
 DOMAIN-SUFFIX,stream7.misakaf.org
 DOMAIN-SUFFIX,stream8.misakaf.org
 
+#终点站
+DOMAIN-SUFFIX,emby.wtf
 #飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,581658.best
-#终点站
-DOMAIN-SUFFIX,emby.wtf
+#飞跃银河
+DOMAIN-SUFFIX,yhemby.top
 #hka
 DOMAIN-SUFFIX,hka-emby.aliz.work
 #awa
 DOMAIN-SUFFIX,emby.awatv.de
-#飞跃银河
-DOMAIN-SUFFIX,yhemby.top
 #alpha
 DOMAIN-SUFFIX,oversea.alphatvapp.top
 #nya
