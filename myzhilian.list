@@ -12,6 +12,13 @@ DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hhanclub.top
 
+#公益服
+#飞跃彩虹
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,581658.best
+#nya
+DOMAIN-SUFFIX,emby.bangumi.ca
+
 # pt tracker
 #DOMAIN-SUFFIX,agsvpt.trackers.work
 #DOMAIN-SUFFIX,t.audiences.me
