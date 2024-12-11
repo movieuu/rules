@@ -21,6 +21,14 @@ DOMAIN-SUFFIX,emby.bangumi.ca
 #temby
 DOMAIN-SUFFIX,285286.xyz
 
+
+#国内游戏直连（优化延迟）
+DOMAIN-SUFFIX,wzry.com
+DOMAIN-SUFFIX,pvp.qq.com
+DOMAIN-SUFFIX,game.qq.com
+DOMAIN-SUFFIX,xianxia.qq.com
+DOMAIN-SUFFIX,netease.com
+
 # pt tracker
 #DOMAIN-SUFFIX,agsvpt.trackers.work
 #DOMAIN-SUFFIX,t.audiences.me
