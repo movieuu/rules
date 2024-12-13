@@ -1,7 +1,7 @@
 # 自定义直连
 DOMAIN-SUFFIX,cncbinternational.com
-DOMAIN,richamon.myds.me
-cloudinary.com
+DOMAIN-SUFFIX,richamon.myds.me
+DOMAIN-SUFFIX,cloudinary.com
 
 #plex
 DOMAIN-SUFFIX,v4.plex.tv 
