@@ -32,6 +32,11 @@ DOMAIN-SUFFIX,game.qq.com
 DOMAIN-SUFFIX,xianxia.qq.com
 DOMAIN-SUFFIX,netease.com
 
+
+#docker
+IP-CIDR,172.17.0.0/12,no-resolve
+IP-CIDR,172.18.0.0/12,no-resolve
+
 # pt tracker
 DOMAIN-SUFFIX,on.springsunday.net
 DOMAIN-SUFFIX,tracker.pterclub.com
