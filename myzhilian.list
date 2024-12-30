@@ -4,8 +4,7 @@ DOMAIN-SUFFIX,richamon.myds.me
 DOMAIN-SUFFIX,cloudinary.com
 
 #plex
-DOMAIN-SUFFIX,v4.plex.tv 
-DOMAIN-SUFFIX,amazonaws.com 
+DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct 
  
 # PT站
