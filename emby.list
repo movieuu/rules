@@ -1,20 +1,26 @@
-#终点站
+# 终点站
 DOMAIN-SUFFIX,emby.wtf
-#飞跃银河
+# 飞跃银河
 DOMAIN-SUFFIX,yhemby.top
-#hka
-DOMAIN-SUFFIX,aliz.work
-#awa
-DOMAIN-SUFFIX,emby.awatv.de
-#alpha
+# alpha
 DOMAIN-SUFFIX,oversea.alphatvapp.top
-#野兽餐厅
-DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
-#纸片人
-DOMAIN-SUFFIX,embyplus.org
-#非越
+# 非越
 DOMAIN-SUFFIX,sfcj.org
-#nebula
-DOMAIN-SUFFIX,nebula-media.org
-#nebula
+#月饼
 DOMAIN-SUFFIX,emby.my
+
+
+#必须代理的
+# 野兽餐厅
+DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org
+# Nebula
+DOMAIN-SUFFIX,nebula-media.org
+# hka
+DOMAIN-SUFFIX,aliz.work
+
+
+#没了
+# awa
+DOMAIN-SUFFIX,emby.awatv.de
