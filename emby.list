@@ -6,11 +6,11 @@ DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,oversea.alphatvapp.top
 # 非越 直连还行 可以001
 DOMAIN-SUFFIX,sfcj.org
-#月饼 直连还行 可以001
+# 月饼 直连还行 可以001
 DOMAIN-SUFFIX,emby.my
-#蘑菇   可以001
+# 蘑菇   可以001
 DOMAIN-SUFFIX,mooguu.xyz
-#起点站  可以001
+# 起点站  可以001
 IP-CIDR,192.99.35.111/32,no-resolve
 # hka 可以001
 DOMAIN-SUFFIX,aliz.work
