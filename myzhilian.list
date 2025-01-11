@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,emby.bangumi.ca
 DOMAIN-SUFFIX,285286.xyz
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
+# 月饼 直连还行 可以001
+DOMAIN-SUFFIX,emby.my
 
 
 #国内游戏直连（优化延迟）
