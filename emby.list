@@ -2,30 +2,13 @@
 DOMAIN-SUFFIX,niceduck.lol
 
 
-# 终点站 可以001
-DOMAIN-SUFFIX,emby.wtf
-# 飞跃银河 直连不太行 可以001
-DOMAIN-SUFFIX,yhemby.top
-# alpha 直连不太行 可以001
-DOMAIN-SUFFIX,oversea.alphatvapp.top
-# 非越 直连还行 可以001
-DOMAIN-SUFFIX,sfcj.org
-# 蘑菇  直连还行 可以001
-DOMAIN-SUFFIX,mooguu.xyz
-# 起点站 可以001
-IP-CIDR,192.99.35.111/32,no-resolve
-# hka 可以001
-DOMAIN-SUFFIX,aliz.work
-
 
 #必须代理的
 # 纸片人 可以001
 DOMAIN-SUFFIX,embyplus.org
 # Nebula 可以001
 DOMAIN-SUFFIX,nebula-media.org
-
-
-# 野兽餐厅 暂时挂了
+# 野兽餐厅
 DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
 # awa 没了
 DOMAIN-SUFFIX,emby.awatv.de
