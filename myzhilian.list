@@ -31,23 +31,6 @@ DOMAIN-SUFFIX,ailuo.de
 # 月饼 直连还行 可以001
 DOMAIN-SUFFIX,emby.my
 
-被迫过来的
-# 终点站 可以001
-DOMAIN-SUFFIX,emby.wtf
-# 飞跃银河 直连不太行 可以001
-DOMAIN-SUFFIX,yhemby.top
-# alpha 直连不太行 可以001
-DOMAIN-SUFFIX,oversea.alphatvapp.top
-# 非越 直连还行 可以001
-DOMAIN-SUFFIX,sfcj.org
-# 蘑菇  直连还行 可以001
-DOMAIN-SUFFIX,mooguu.xyz
-# 起点站 可以001
-IP-CIDR,192.99.35.111/32,no-resolve
-# hka 可以001
-DOMAIN-SUFFIX,aliz.work
-
-
 #国内游戏直连（优化延迟）
 DOMAIN-SUFFIX,wzry.com
 DOMAIN-SUFFIX,pvp.qq.com
