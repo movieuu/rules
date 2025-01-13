@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hhanclub.top
 
+#duck服
+DOMAIN-SUFFIX,niceduck.lol
+
 #公益服
 #misakaf
 DOMAIN-SUFFIX,stream1.misakaf.org
