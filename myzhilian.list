@@ -2,7 +2,23 @@
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,richamon.myds.me
 DOMAIN-SUFFIX,cloudinary.com
+
+#ani动漫
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,myani.org
 DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,acgfta.com
+DOMAIN-SUFFIX,mwcy.net
+DOMAIN-SUFFIX,cycani.org
+DOMAIN-SUFFIX,mcydh.com
+DOMAIN-SUFFIX,mitaodm.com
+DOMAIN-SUFFIX,gugu3.com
+DOMAIN-SUFFIX,fqdm.cc
+DOMAIN-SUFFIX,eacg.net
+DOMAIN-SUFFIX,qdm8.com
+
+DOMAIN-SUFFIX,pic.wujinpp.com
+
 
 #plex
 DOMAIN-SUFFIX,v4.plex.tv
