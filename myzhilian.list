@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,ailuo.de
 # 月饼 直连还行 可以001
 DOMAIN-SUFFIX,emby.my
+IP-CIDR,100.42.230.169/32,no-resolve
 
 #国内游戏直连（优化延迟）
 DOMAIN-SUFFIX,wzry.com
