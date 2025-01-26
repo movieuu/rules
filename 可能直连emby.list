@@ -1,19 +1,17 @@
-# 终点站 可以001
+# 终点站
 DOMAIN-SUFFIX,emby.wtf
-# 飞跃银河 直连不太行 可以001
+# 飞跃银河 直连不太行
 DOMAIN-SUFFIX,yhemby.top
-# alpha 直连不太行 可以001
+# alpha 直连不太行
 DOMAIN-SUFFIX,oversea.alphatvapp.top
-# 非越 直连还行 可以001
+# 非越 直连还行
 DOMAIN-SUFFIX,sfcj.org
-# 蘑菇  直连还行 可以001
+# 蘑菇  直连还行
 DOMAIN-SUFFIX,mooguu.xyz
-# 起点站 可以001
+# 起点站
 #IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,vfing.de
-# hka 可以001
+# hka
 DOMAIN-SUFFIX,aliz.work
-
-
-# awa 没了
-DOMAIN-SUFFIX,emby.awatv.de
+# 墨白
+DOMAIN-SUFFIX,mobaiemby.site
