@@ -34,6 +34,15 @@ DOMAIN-SUFFIX,fast.vfing.de
 #移动深港专线
 DOMAIN-SUFFIX,sfyzn2.mobaiemby.site
 
+# 起点站
+#IP-CIDR,192.99.35.111/32,no-resolve
+DOMAIN-SUFFIX,favoritewife.com
+DOMAIN-SUFFIX, qdz-hk-0.vfing.de
+DOMAIN-SUFFIX, qdz-hk-1.vfing.de
+DOMAIN-SUFFIX, qdz-hk-2.vfing.de
+DOMAIN-SUFFIX, qdz-hk-hol.vfing.de
+DOMAIN-SUFFIX,qdz-sg.vfing.de
+
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
 
