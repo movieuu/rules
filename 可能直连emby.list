@@ -8,9 +8,8 @@ DOMAIN-SUFFIX,oversea.alphatvapp.top
 DOMAIN-SUFFIX,sfcj.org
 # 蘑菇  直连还行
 DOMAIN-SUFFIX,mooguu.xyz
-# 起点站
-#IP-CIDR,192.99.35.111/32,no-resolve
-DOMAIN-SUFFIX,vfing.de
+
+
 # hka
 DOMAIN-SUFFIX,aliz.work
 
