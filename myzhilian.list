@@ -57,9 +57,12 @@ IP-CIDR,100.42.230.169/32,no-resolve
 # nanflex 
 DOMAIN-SUFFIX,nanflix.net
 # 墨白
-DOMAIN-SUFFIX,mobaiemby.site #主
-DOMAIN-SUFFIX,fast.vfing.de #限时中转
-DOMAIN-SUFFIX,sfyzn2.mobaiemby.site #移动深港专线
+#主
+DOMAIN-SUFFIX,mobaiemby.site
+#限时中转
+DOMAIN-SUFFIX,fast.vfing.de
+#移动深港专线
+DOMAIN-SUFFIX,sfyzn2.mobaiemby.site
 
 #国内游戏直连（优化延迟）
 DOMAIN-SUFFIX,wzry.com
