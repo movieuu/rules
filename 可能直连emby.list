@@ -13,7 +13,8 @@ DOMAIN-SUFFIX,mooguu.xyz
 DOMAIN-SUFFIX,vfing.de
 # hka
 DOMAIN-SUFFIX,aliz.work
-# 墨白
-DOMAIN-SUFFIX,mobaiemby.site
 # july
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,july-hk.vfing.de #香港
+DOMAIN-SUFFIX,july-sg.vfing.de #新加坡
+DOMAIN-SUFFIX,july-us.vfing.de #美国
