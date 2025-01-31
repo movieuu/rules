@@ -1,7 +1,8 @@
 #必须代理的
-# 纸片人 可以001
+# 纸片人
 DOMAIN-SUFFIX,embyplus.org
-# Nebula 可以001
+DOMAIN-SUFFIX,gd.9521732.xyz
+# Nebula
 DOMAIN-SUFFIX,nebula-media.org
 # 野兽餐厅
 DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
