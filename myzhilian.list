@@ -1,6 +1,9 @@
 #fac
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,arialink.one
+DOMAIN-SUFFIX,cdn-cgi.arialink.one
+DOMAIN-KEYWORD,stream.cdn-cgi
+
 # 自定义直连
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,richamon.myds.me
