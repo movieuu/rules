@@ -9,6 +9,23 @@ DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,richamon.myds.me
 DOMAIN-SUFFIX,cloudinary.com
 
+#群晖
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,dnsapi.cn
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-KEYWORD,-synology
+
 #plex
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct 
