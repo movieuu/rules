@@ -47,15 +47,14 @@ IP-CIDR,100.42.230.169/32,no-resolve
 # nanflex 
 DOMAIN-SUFFIX,nanflix.net
 # 起点站
-#IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN-SUFFIX,favoritewife.com
 DOMAIN-SUFFIX, qdz-hk-0.vfing.de
 DOMAIN-SUFFIX, qdz-hk-1.vfing.de
 DOMAIN-SUFFIX, qdz-hk-2.vfing.de
 DOMAIN-SUFFIX, qdz-hk-hol.vfing.de
 DOMAIN-SUFFIX,qdz-sg.vfing.de
-
-# 蘑菇
+DOMAIN-SUFFIX,qdz-de.vfing.de
+# 见手青
 DOMAIN-SUFFIX,mooguu.xyz
 
 #爱罗音乐
