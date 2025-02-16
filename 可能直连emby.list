@@ -2,16 +2,10 @@
 DOMAIN-SUFFIX,emby.wtf
 # 飞跃银河 直连不太行
 DOMAIN-SUFFIX,yhemby.top
-# alpha 直连不太行
-DOMAIN-SUFFIX,oversea.alphatvapp.top
 # 非越 直连还行
 DOMAIN-SUFFIX,sfcj.org
-
-
-
 # hka
 DOMAIN-SUFFIX,aliz.work
-
 # july
 #主
 DOMAIN-SUFFIX,eu.org
@@ -23,8 +17,5 @@ DOMAIN-SUFFIX,july-hk.vfing.de
 DOMAIN-SUFFIX,july-sg.vfing.de
 #美国
 DOMAIN-SUFFIX,july-us.vfing.de
-
 # 墨白
-DOMAIN-SUFFIX,2pfdml.mobaiemby.site
-#德国
-DOMAIN-SUFFIX,emby-myg-de.vfing.de
+DOMAIN-SUFFIX,mobaiemby.site
