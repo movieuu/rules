@@ -2,9 +2,7 @@
 DOMAIN-SUFFIX,emby.wtf
 # 飞跃银河 直连不太行
 DOMAIN-SUFFIX,yhemby.top
-# 非越 直连还行
+# 非越 直连不行
 DOMAIN-SUFFIX,sfcj.org
 # hka
 DOMAIN-SUFFIX,aliz.work
-# 墨白
-DOMAIN-SUFFIX,mobaiemby.site
