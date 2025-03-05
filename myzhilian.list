@@ -44,8 +44,6 @@ DOMAIN-SUFFIX,285286.xyz
 # 月饼
 DOMAIN-SUFFIX,emby.my
 IP-CIDR,100.42.230.169/32,no-resolve
-# nanflex 
-DOMAIN-SUFFIX,nanflix.net
 # 起点站
 DOMAIN-SUFFIX,favoritewife.com
 DOMAIN-SUFFIX,vfing.de
