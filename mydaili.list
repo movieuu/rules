@@ -5,5 +5,8 @@ DOMAIN-SUFFIX,niceduck.cc
 #DOMAIN-SUFFIX,deepseek.com
 
 #googleplay
+DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
