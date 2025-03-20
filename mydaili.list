@@ -3,3 +3,7 @@ DOMAIN-SUFFIX,web.nebula-media.org
 DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,niceduck.cc
 #DOMAIN-SUFFIX,deepseek.com
+
+#googleplay
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,android.clients.google.com
