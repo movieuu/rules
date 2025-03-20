@@ -74,10 +74,6 @@ DOMAIN-SUFFIX,netease.com
 #IP-CIDR,172.17.0.0/12,no-resolve
 #IP-CIDR,172.18.0.0/12,no-resolve
 
-#googleplay
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,services.googleapis.cn
-
 # pt tracker
 #DOMAIN-SUFFIX,on.springsunday.net
 #DOMAIN-SUFFIX,tracker.pterclub.com
