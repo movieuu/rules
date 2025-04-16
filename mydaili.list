@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,web.nebula-media.org
 DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,niceduck.cc
 #DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,moomoo.com
 
 #googleplay
 DOMAIN-SUFFIX,services.googleapis.cn
@@ -10,3 +11,4 @@ DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
