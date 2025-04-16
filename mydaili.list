@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,niceduck.cc
 #DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,za.group
 
 #googleplay
 DOMAIN-SUFFIX,services.googleapis.cn
