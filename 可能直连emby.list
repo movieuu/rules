@@ -1,16 +1,16 @@
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
-# 飞跃银河 直连不太行
+# 飞跃银河
 DOMAIN-SUFFIX,yhemby.top
-# 非越 直连不行
+# 非越 
 DOMAIN-SUFFIX,sfcj.org
-#kiku
+#kiku 直连非常不行
 DOMAIN-SUFFIX,ucloudhost.top
-#惊蛰
+#惊蛰 
 DOMAIN-SUFFIX,jingzhe.pro
 #nanflex 
 DOMAIN-SUFFIX,nanflix.net
-# 入机emby 
+# 入机emby 还行
 DOMAIN-SUFFIX,rjemby.com
 # emby在线 直连不行
 DOMAIN-SUFFIX,yunti.online
