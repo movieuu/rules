@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,biliblili.uk
 #飞跃彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,581658.best
+IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,emby.bangumi.ca
 #temby
