@@ -12,5 +12,5 @@ DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,nanflix.net
 # 入机emby 
 DOMAIN-SUFFIX,rjemby.com
-# emby在线
+# emby在线 直连不行
 DOMAIN-SUFFIX,yunti.online
