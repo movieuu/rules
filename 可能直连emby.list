@@ -4,13 +4,11 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,yhemby.top
 # 非越 直连不行
 DOMAIN-SUFFIX,sfcj.org
-# hka
-DOMAIN-SUFFIX,aliz.work
 #kiku
 DOMAIN-SUFFIX,ucloudhost.top
 #惊蛰
 DOMAIN-SUFFIX,jingzhe.pro
 #nanflex 
 DOMAIN-SUFFIX,nanflix.net
-# 垃圾emby 
-DOMAIN-SUFFIX,xytx.dpdns.org
+# 入机emby 
+DOMAIN-SUFFIX,rjemby.com
