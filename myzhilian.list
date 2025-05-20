@@ -84,9 +84,9 @@ DOMAIN-SUFFIX,netease.com
 #IP-CIDR,172.18.0.0/12,no-resolve
 
 # pt tracker
+DOMAIN-SUFFIX,m-team.io
 #DOMAIN-SUFFIX,on.springsunday.net
 #DOMAIN-SUFFIX,tracker.pterclub.com
-#DOMAIN-SUFFIX,tra1.m-team.io
 #DOMAIN-SUFFIX,tracker.totheglory.im
 #DOMAIN-SUFFIX,agsvpt.trackers.work
 #DOMAIN-SUFFIX,t.audiences.me
