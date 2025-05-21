@@ -14,3 +14,7 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,rjf37.com
 # emby在线 直连不行
 DOMAIN-SUFFIX,yunti.online
+# 肥牛 凑乎直连
+DOMAIN-SUFFIX,feiniu.lol
+# 猫眼 直连挺快
+DOMAIN-SUFFIX,frre.me
