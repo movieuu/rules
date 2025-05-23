@@ -89,8 +89,8 @@ DOMAIN-SUFFIX,m-team.io
 #DOMAIN-SUFFIX,tracker.pterclub.com
 #DOMAIN-SUFFIX,tracker.totheglory.im
 #DOMAIN-SUFFIX,agsvpt.trackers.work
-#DOMAIN-SUFFIX,t.audiences.me
-#DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,tracker.cinefiles.info
 #DOMAIN-SUFFIX,hdfans.org
 #DOMAIN-SUFFIX,tracker.hhan.club
 #DOMAIN-SUFFIX,hhanclub.top
