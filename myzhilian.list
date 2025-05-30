@@ -67,10 +67,8 @@ DOMAIN-SUFFIX,yezi.my
 DOMAIN-SUFFIX,carlos.trade
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
-#哪吒
-DOMAIN-SUFFIX,nezhasu.com
-#onyra
-DOMAIN-SUFFIX,onyra.cc
+#CineTrail
+DOMAIN-SUFFIX,123456789.lol
 
 #国内游戏直连（优化延迟）
 DOMAIN-SUFFIX,wzry.com
