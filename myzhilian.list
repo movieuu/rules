@@ -52,7 +52,7 @@ IP-CIDR,100.42.230.169/32,no-resolve
 # 起点站
 DOMAIN-SUFFIX,28.al
 # 见手青
-DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN-SUFFIX,vban.xyz
 # SaturDay.Lite
 DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,saturdayvideo.top
