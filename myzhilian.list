@@ -68,7 +68,8 @@ DOMAIN-SUFFIX,yezi.my
 DOMAIN-SUFFIX,carlos.trade
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
-
+# youne直连路线
+DOMAIN-SUFFIX,younoyes.com
 
 #国内游戏直连（优化延迟）
 DOMAIN-SUFFIX,wzry.com
