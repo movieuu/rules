@@ -82,13 +82,14 @@ DOMAIN-SUFFIX,netease.com
 
 # pt tracker
 DOMAIN-SUFFIX,m-team.io
-#DOMAIN-SUFFIX,on.springsunday.net
-#DOMAIN-SUFFIX,tracker.pterclub.com
-#DOMAIN-SUFFIX,tracker.totheglory.im
-#DOMAIN-SUFFIX,agsvpt.trackers.work
+DOMAIN-SUFFIX,on.springsunday.net
+DOMAIN-SUFFIX,tracker.pterclub.com
+DOMAIN-SUFFIX,tracker.totheglory.im
+DOMAIN-SUFFIX,agsvpt.trackers.work
 DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,tracker.cinefiles.info
 DOMAIN-SUFFIX,noresponse.audiences.me
+DOMAIN-SUFFIX,pt.ourhelp.club
 #DOMAIN-SUFFIX,hdfans.org
 #DOMAIN-SUFFIX,tracker.hhan.club
 #DOMAIN-SUFFIX,hhanclub.top
@@ -97,7 +98,6 @@ DOMAIN-SUFFIX,noresponse.audiences.me
 #DOMAIN-SUFFIX,t.orcinusorca.org
 #DOMAIN-SUFFIX,ourbits.club
 #DOMAIN-SUFFIX,pt.eastgame.org
-#DOMAIN-SUFFIX,pt.ourhelp.club
 #DOMAIN-SUFFIX,tracker.ptvicomo.net
 #DOMAIN-SUFFIX,tracker.qingwa.pro
 #DOMAIN-SUFFIX,hdkylin.top
