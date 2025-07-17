@@ -35,11 +35,12 @@ DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hhanclub.top
 
 #公益服
-#飞跃彩虹
+#飞跃彩虹 游骑兵
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,bangumi.ca
