@@ -1,7 +1,5 @@
 #结束乐队 暂时必须代理
 DOMAIN-SUFFIX,biliblili.uk
-#守候sntp
-DOMAIN-SUFFIX,cn2gias.uk
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 # 飞跃银河
