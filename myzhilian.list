@@ -46,6 +46,8 @@ IP-CIDR,193.122.114.13/32,no-resolve
 DOMAIN-SUFFIX,bangumi.ca
 #zoxfree
 DOMAIN-SUFFIX,3767483.xyz
+#守候sntp
+DOMAIN-SUFFIX,cn2gias.uk
 #temby
 DOMAIN-SUFFIX,285286.xyz
 # 月饼
