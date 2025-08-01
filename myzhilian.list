@@ -49,6 +49,8 @@ IP-CIDR,193.122.114.13/32,no-resolve
 DOMAIN-SUFFIX,bangumi.ca
 #zoxfree
 DOMAIN-SUFFIX,3767483.xyz
+#稳健epub
+DOMAIN-SUFFIX,wenjian.de
 #守候sntp
 DOMAIN-SUFFIX,cn2gias.uk
 #temby
