@@ -1,9 +1,3 @@
-#fac
-DOMAIN-SUFFIX,makima.online
-DOMAIN-SUFFIX,arialink.one
-DOMAIN-SUFFIX,cdn-cgi.arialink.one
-DOMAIN-KEYWORD,stream.cdn-cgi
-
 # 自定义直连
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,richamon.myds.me
@@ -34,10 +28,9 @@ DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hhanclub.top
 
-#fac机场
-DOMAIN-SUFFIX,313445.xyz
-
 #公益服
+#lilyemby
+DOMAIN-SUFFIX,lilyemby.my
 #飞跃彩虹 游骑兵
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,581658.best
@@ -75,8 +68,6 @@ DOMAIN-SUFFIX,114514.quest
 DOMAIN-SUFFIX,yezi.my
 # 特卡
 DOMAIN-SUFFIX,carlos.trade
-#lilyemby
-DOMAIN-SUFFIX,lilyemby.my
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
 
@@ -86,11 +77,6 @@ DOMAIN-SUFFIX,pvp.qq.com
 DOMAIN-SUFFIX,game.qq.com
 DOMAIN-SUFFIX,xianxia.qq.com
 DOMAIN-SUFFIX,netease.com
-
-
-#docker
-#IP-CIDR,172.17.0.0/12,no-resolve
-#IP-CIDR,172.18.0.0/12,no-resolve
 
 # pt tracker
 DOMAIN-SUFFIX,m-team.io
@@ -133,17 +119,3 @@ DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebayrtm.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,ebaystratus.com
-
-#fcm推送
-DOMAIN-SUFFIX,mtalk.google.com
-DOMAIN-SUFFIX,mtalk4.google.com
-DOMAIN-SUFFIX,mtalk-staging.google.com
-DOMAIN-SUFFIX,mtalk-dev.google.com
-DOMAIN-SUFFIX,alt1-mtalk.google.com
-DOMAIN-SUFFIX,alt2-mtalk.google.com
-DOMAIN-SUFFIX,alt3-mtalk.google.com
-DOMAIN-SUFFIX,alt4-mtalk.google.com
-DOMAIN-SUFFIX,alt5-mtalk.google.com
-DOMAIN-SUFFIX,alt6-mtalk.google.com
-DOMAIN-SUFFIX,alt7-mtalk.google.com
-DOMAIN-SUFFIX,alt8-mtalk.google.com
