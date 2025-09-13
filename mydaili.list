@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,movie-pilot.org
 
 #googleplay
 DOMAIN-SUFFIX,services.googleapis.cn
