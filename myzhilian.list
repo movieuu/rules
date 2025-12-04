@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,feiyue.lol
 #DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
+#Lemby pro直连线路
+IP-CIDR,154.64.232.36/32,no-resolve
 #pre动画
 DOMAIN-SUFFIX,1l1.icu
 #nya
