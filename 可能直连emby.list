@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,heisi.org
 DOMAIN-SUFFIX,twimg.com
 #结束乐队 直连不行了存疑
 DOMAIN-SUFFIX,biliblili.uk
+#lily
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyemby.cc
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 # 飞跃彩虹
