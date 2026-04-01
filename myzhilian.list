@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hhanclub.net
 
 #公益服
+#top的反代
+DOMAIN-SUFFIX,bbroot.com
 #lilyemby
 #DOMAIN-SUFFIX,lilyemby.com
 #DOMAIN-SUFFIX,lilyemby.cc
