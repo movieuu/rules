@@ -34,8 +34,8 @@ DOMAIN-SUFFIX,hhanclub.net
 #top的反代
 DOMAIN-SUFFIX,bbroot.com
 #lilyemby
-#DOMAIN-SUFFIX,lilyemby.com
-#DOMAIN-SUFFIX,lilyemby.cc
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyemby.cc
 #结束乐队
 #DOMAIN-SUFFIX,biliblili.uk
 #飞跃彩虹 游骑兵
