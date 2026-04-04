@@ -13,17 +13,20 @@ DOMAIN-SUFFIX,bbroot.com
 #DOMAIN-SUFFIX,lilyemby.cc
 #结束乐队
 #DOMAIN-SUFFIX,biliblili.uk
+# 终点站
+#DOMAIN-SUFFIX,emby.wtf
+# 见手青
+#DOMAIN-SUFFIX,vban.xyz
+# SaturDay.Lite
+#DOMAIN-SUFFIX,saturday.video
+#DOMAIN-SUFFIX,saturdayvideo.top
+
+
+
 #飞跃彩虹 游骑兵
-DOMAIN-SUFFIX,7777777.buzz
-DOMAIN-SUFFIX,581658.best
-DOMAIN-SUFFIX,yhemby.top
 DOMAIN-SUFFIX,feiyue.lol
 DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
-#Lemby pro直连线路
-IP-CIDR,154.64.232.36/32,no-resolve
-#pre动画
-DOMAIN-SUFFIX,1l1.icu
 #nya
 DOMAIN-SUFFIX,bangumi.ca
 #稳健epub
@@ -32,24 +35,19 @@ DOMAIN-SUFFIX,wenjian.de
 DOMAIN-SUFFIX,emby.my
 IP-CIDR,100.42.230.169/32,no-resolve
 # lemby
-DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,886223.xyz
+DOMAIN-SUFFIX,886318.xyz
 # peach
 DOMAIN-SUFFIX,embymv.link
 # doubon
 DOMAIN-SUFFIX,114514.quest
 # 叶子
 DOMAIN-SUFFIX,yezi.cc
+DOMAIN-SUFFIX,yezi.xyz
 #okemby
 DOMAIN-SUFFIX,okemby.org
-#mirai
-DOMAIN-SUFFIX,miraiemby.com
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
-# 见手青
-#DOMAIN-SUFFIX,vban.xyz
-# SaturDay.Lite
-#DOMAIN-SUFFIX,saturday.video
-#DOMAIN-SUFFIX,saturdayvideo.top
 
 # PT站
 DOMAIN-SUFFIX,lemonhd.club
