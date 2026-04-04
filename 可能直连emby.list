@@ -1,33 +1,33 @@
 #其他
 DOMAIN-SUFFIX,heisi.org
 DOMAIN-SUFFIX,twimg.com
-#结束乐队 直连不行了存疑
+#结束乐队
 DOMAIN-SUFFIX,biliblili.uk
 #lily
 DOMAIN-SUFFIX,lilyemby.com
 DOMAIN-SUFFIX,lilyemby.cc
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
+# 见手青
+DOMAIN-SUFFIX,vban.xyz
+# SaturDay.Lite
+DOMAIN-SUFFIX,saturday.video
+DOMAIN-SUFFIX,saturdayvideo.top
 # 飞跃彩虹
-#DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,feiyue.lol
 # 一之濑琴美 
 DOMAIN-SUFFIX,ichinosekotomi.com
 #惊蛰 
 DOMAIN-SUFFIX,jingzhe.pro
-# emby在线 直连不行
-DOMAIN-SUFFIX,yunti.online
-# playz
-DOMAIN-SUFFIX,mjji.de
 #临境
 DOMAIN-SUFFIX,liminalnet.com
 #飞了个喵
 DOMAIN-SUFFIX,meowfly.de
 #兔子/105°
 DOMAIN-SUFFIX,ciallo.party
-#MSKY
-DOMAIN-SUFFIX,5msky.com
 #youne 直连不行
 DOMAIN-SUFFIX,younoyes.com
+
 
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
