@@ -29,8 +29,6 @@ DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,bangumi.ca
-#稳健epub
-DOMAIN-SUFFIX,wenjian.de
 # 月饼
 DOMAIN-SUFFIX,emby.my
 IP-CIDR,100.42.230.169/32,no-resolve
