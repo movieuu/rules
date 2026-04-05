@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,bbroot.com
 #DOMAIN-SUFFIX,lilyemby.cc
 #结束乐队
 #DOMAIN-SUFFIX,biliblili.uk
-# 终点站
-#DOMAIN-SUFFIX,emby.wtf
+# 终点站 开
+DOMAIN-SUFFIX,emby.wtf
 # 见手青
 #DOMAIN-SUFFIX,vban.xyz
 # SaturDay.Lite
