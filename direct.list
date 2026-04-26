@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 
 #公益服
 # 终点站 开
-DOMAIN-SUFFIX,emby.wtf
+#DOMAIN-SUFFIX,emby.wtf
 #兔子/105° 开
 DOMAIN-SUFFIX,ciallo.party
 #lilyemby
