@@ -17,17 +17,14 @@ DOMAIN-SUFFIX,yuanshen.help
 #DOMAIN-SUFFIX,lilyya.top
 #结束乐队
 #DOMAIN-SUFFIX,biliblili.uk
-# 见手青
-#DOMAIN-SUFFIX,vban.xyz
 # SaturDay.Lite
 #DOMAIN-SUFFIX,saturday.video
 #DOMAIN-SUFFIX,saturdayvideo.top
 
 
 
-#飞跃彩虹 游骑兵
+#飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
-#DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,bangumi.ca
