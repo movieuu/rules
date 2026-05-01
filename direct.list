@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,ciallo.party
 
 #飞跃彩虹 游骑兵
 DOMAIN-SUFFIX,feiyue.lol
-DOMAIN-SUFFIX,heisi.org
+#DOMAIN-SUFFIX,heisi.org
 IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,bangumi.ca
