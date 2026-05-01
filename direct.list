@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 # SaturDay.Lite
 #DOMAIN-SUFFIX,saturday.video
 #DOMAIN-SUFFIX,saturdayvideo.top
+#okemby
+#DOMAIN-SUFFIX,okemby.org
 
 
 
@@ -41,8 +43,6 @@ DOMAIN-SUFFIX,114514.quest
 # 叶子
 DOMAIN-SUFFIX,lyezi.cc
 DOMAIN-SUFFIX,lyezi.xyz
-#okemby
-DOMAIN-SUFFIX,okemby.org
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
 
