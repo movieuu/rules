@@ -32,6 +32,7 @@ IP-CIDR,193.122.114.13/32,no-resolve
 DOMAIN-SUFFIX,bangumi.ca
 # 月饼
 DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,apple-cdn.net
 IP-CIDR,100.42.230.169/32,no-resolve
 # lemby
 DOMAIN-SUFFIX,886223.xyz
