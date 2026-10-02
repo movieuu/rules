@@ -8,15 +8,11 @@ DOMAIN-SUFFIX,steambk.com
 DOMAIN-SUFFIX,sw.blackmagicdesign.com
 
 #公益服
-# 终点站 开
+# 终点站
 #DOMAIN-SUFFIX,emby.wtf
-#兔子/105° 开
+#兔子/105°
 #DOMAIN-SUFFIX,ciallo.party
 #DOMAIN-SUFFIX,yuanshen.help
-#lilyemby
-#DOMAIN-SUFFIX,lilyemby.com
-#DOMAIN-SUFFIX,lilyya.top
-DOMAIN-SUFFIX,lilyemby.cc
 #结束乐队
 #DOMAIN-SUFFIX,biliblili.uk
 #SaturDay.Lite
@@ -24,8 +20,6 @@ DOMAIN-SUFFIX,lilyemby.cc
 #DOMAIN-SUFFIX,saturdayvideo.top
 #okemby
 #DOMAIN-SUFFIX,okemby.org
-#nay
-#DOMAIN-SUFFIX,nay.007.us.kg
 
 
 
@@ -34,6 +28,12 @@ DOMAIN-SUFFIX,feiyue.lol
 IP-CIDR,193.122.114.13/32,no-resolve
 #nya
 DOMAIN-SUFFIX,bangumi.ca
+#lilyemby
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyya.top
+DOMAIN-SUFFIX,lilyemby.cc
+#anisaga
+DOMAIN-SUFFIX,anisaga.tv
 # 月饼
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,apple-cdn.net
@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,114514.quest
 # 叶子
 DOMAIN-SUFFIX,lyezi.cc
 DOMAIN-SUFFIX,lyezi.xyz
+#nayo
+DOMAIN-SUFFIX,nay.007.us.kg
 #爱罗音乐
 DOMAIN-SUFFIX,ailuo.de
 
