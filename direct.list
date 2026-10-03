@@ -18,11 +18,9 @@ DOMAIN-SUFFIX,sw.blackmagicdesign.com
 #SaturDay.Lite
 #DOMAIN-SUFFIX,saturday.video
 #DOMAIN-SUFFIX,saturdayvideo.top
+
 #okemby
-#DOMAIN-SUFFIX,okemby.org
-
-
-
+DOMAIN-SUFFIX,okemby.org
 #飞跃彩虹
 DOMAIN-SUFFIX,feiyue.lol
 IP-CIDR,193.122.114.13/32,no-resolve
