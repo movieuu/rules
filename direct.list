@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,steambk.com
 DOMAIN-SUFFIX,sw.blackmagicdesign.com
 
+#国外网盘
+#DOMAIN-SUFFIX,gofile.io
+
 #公益服
 # 终点站
 #DOMAIN-SUFFIX,emby.wtf
